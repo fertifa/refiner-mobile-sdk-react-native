@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@react-native-community/cli-platform-android": "^18.0.0",
+    "@react-native-community/cli-platform-android": "^21.0.0",
     "@react-native/gradle-plugin": "^0.79.7",
     "react": "19.0.0",
     "react-native": "0.79.7",
